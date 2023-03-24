@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1755-aula4-novidades-java-reactive-streams-comecando_com_reactive_streams/src"/>
+	<classpathentry kind="output" path="1755-aula4-novidades-java-reactive-streams-comecando_com_reactive_streams/bin"/>
+</classpath>
